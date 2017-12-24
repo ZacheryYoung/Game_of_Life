@@ -31,3 +31,5 @@
 4.       所有代码提交要基于GitHub
 
 5.       注意，先从最简单的开始，提供可部分工作的功能，多次迭代修改
+
+[![Build Status](https://travis-ci.org/ZacheryYoung/Game_of_Life.svg?branch=master)](https://travis-ci.org/ZacheryYoung/Game_of_Life)
