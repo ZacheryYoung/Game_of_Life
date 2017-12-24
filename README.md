@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/ZacheryYoung/Game_of_Life.svg?branch=master)](https://travis-ci.org/ZacheryYoung/Game_of_Life)
+
 请用TDD的方式，实现一个生命游戏(game of lfe)。
 
 生命游戏中，对于任意细胞，规则如下：
